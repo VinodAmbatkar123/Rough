@@ -9,5 +9,7 @@ class BookstoreApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
+      public void check(){
+      System.out.print("ketan lokhande ");
+      }
 }
